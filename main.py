@@ -1,5 +1,7 @@
 # python3
 
+# Leons Jūlijs Strupītis 13. gr 1k. 221RDB402
+
 class Query:
     def __init__(self, query):
         self.type = query[0]
